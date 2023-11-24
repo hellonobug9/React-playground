@@ -40,3 +40,10 @@
 .read-the-docs {
   color: #888;
 }
+
+.ab {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  z-index: 9999;
+}
